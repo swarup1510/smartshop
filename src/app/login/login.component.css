@@ -1,0 +1,26 @@
+
+.header-logo{
+  
+    margin-top: 5px;
+}
+.card{
+    width: 400px;    
+    margin-top: 30px;
+   
+}
+.card-header{
+    background-color: #F8694A !important;
+    color:white;
+    font-family: 'Hind';
+    
+}
+.mail{
+    margin-top: 20px;
+    border-radius: 25px;
+}
+.signin{
+    border-radius: 25px;
+}
+.Remember{
+    margin-top: 10px;
+}
